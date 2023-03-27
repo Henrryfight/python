@@ -1,2 +1,2 @@
-# python
-some code in python
+# leetcode
+some thinkings in leetcode
